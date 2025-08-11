@@ -1,0 +1,6 @@
+
+INSERT INTO Toys VALUES
+        (1, 'Chew toy', 20),
+        (2, 'Balls', 50),
+        (3, 'Bowls', 30),
+        (4, 'Foldable bed', 40);
