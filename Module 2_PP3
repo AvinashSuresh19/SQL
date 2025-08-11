@@ -1,0 +1,2 @@
+ALTER TABLE Toys
+MODIFY Variety VARCHAR(30);
