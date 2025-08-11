@@ -1,0 +1,7 @@
+--Create a new table in the database named Toys with attributes as ID (integer), Variety (variable length string), and Quantity (integer). Make sure the ID is not Null.--
+
+CREATE TABLE Toys (
+        ID INTEGER NOT NULL,
+        Variety VARCHAR(20),
+        Quantity INTEGER
+        );
